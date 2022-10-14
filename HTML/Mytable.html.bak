@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+My Table 
+</title>
+</head>
+<body>
+<h1 style="color:red;">
+My Table
+</h1>
+<p style="color: green;">
+This is my simple table.
+</p>
+<table border=1>
+	<tr>
+		<th style="color: blue;font-size: 40px;">
+		Food
+		</th>
+		<th style="color: blue;font-size: 40px;">
+		Calories
+		</th>
+	</tr>
+		<tr>
+		<td style="color: blue;font-size: 40px;">
+		Cheeseburger
+		</td>
+		<td style="color: blue;font-size: 40px;">
+		1200
+		</td>
+	</tr>
+</table>
+</body>
+</html>

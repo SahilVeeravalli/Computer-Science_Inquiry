@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<title>Rate Professor</title>
+<body style="background-color:Tomato;">
+<h1 style = "text-align: center";>Rate Your Professor<h1>
+<div class="form-center">
+	<form action="response.html" method="post" style="background-color:powderblue;">
+	<fieldset>
+	<legend>Rate</legend>
+	<label for="fname">Your First name:</label>
+	<input type="text" id="fname" name="fname" style="border-radius: 5px" required><br><br>
+	<label for="lname">Your Last name:</label>
+	<input type="text" id="lname" name="lname" style="border-radius: 5px" required>
+	<p>Select Your Age</p>
+	<input type="radio" id="age1" name= "age" style="border-radius: 5px" value="17" required>
+	<label for="age1">16 - 17</label><br>
+	<input type="radio" id="age2" name= "age" style="border-radius: 5px" value="19" required>
+	<label for="age2">18 - 19</label><br>
+	<input type="radio" id="age3" name= "age" style="border-radius: 5px" value="20" required>
+	<label for="age3">19 - 20</label><br><br>
+	<label for="pname">Professor's Name:</label>
+	<input type="pname" id="pname" name="pname" style="border-radius: 5px" required><br><br>
+	<p>Professor Rating:</p>
+	<div class="slidecontainer">
+		<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+	</div>
+	<br>
+	<label for="tdate">Today's Date:</label>
+	<input type="date" id="date" name="tdate" required><br><br>
+	<label for="class">Which class?</label>
+	<select name="class" id="class">
+		<option value="math">Math</option>
+		<option value="biology">Biology</option>
+		<option value="chemistry">Chemistry</option>
+		<option value="physics">Physics</option>
+		<option value="lit">Literature</option>
+		<option value="spanish">Spanish</option>
+		<option value="french">French</option>
+		</select>
+		<br><br>
+	<label for="concerns" style="font-size: 18px"><b>Any other concerns?</b></label><br><br>
+	<textarea id="concerns" name="concerns" rows="5" cols="75" style="border-radius: 10px"></textarea><br><br>
+	<input type="submit" value="Submit" style="border-radius: 5px">
+	<input type="reset" value="Reset" style="border-radius: 5px">
+	</fieldset>
+	</form>
+</div>
+</body>
+<style>
+	.form-center {
+			display:flex;
+			justify-content: center;
+	}
+form {
+  text-align: center;
+}	
+</style>
+</html>

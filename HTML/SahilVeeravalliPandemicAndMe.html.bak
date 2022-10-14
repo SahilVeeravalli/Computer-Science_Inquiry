@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <body style="background-color:powderblue;">
+	<link href='https://fonts.googleapis.com/css?family=Arbutus Slab' rel='stylesheet'>
+    <title>Pandemic and Me</title>
+    <h1 align = "center">Impact of the Pandemic</h1>
+    <p align = "center" style = "font-size: 16px;text-align: center";>My name is Sahil Veeravalli (He/Him), I am a sophomore at the Illinois Math and Science Academy. 
+        I like to draw, read, and play my guitar and clarinet. I am 16 years old and my birthday in on November 21. I am from Dunlap, Illinois. I am looking forward to learning about computer science and explore 
+        a field that I am not very familiar with.</p>
+    <p align= "center" style = "font-size: 18px;text-align: center";><b>This is how the pandemic has changed my day-to-day life:</b></p>
+    <p align= "center" style = "font-size: 16px;text-align: center";>During the pandemic, I stayed at home for the most part. I ended up watching a lot of movies and playing a lot 
+        of video games. I was also lazier with schoolwork as a result of the teachers being very lenient. Overall, I did not like online school. I was looking forward to 
+        coming back to an in-person experience.</p>
+    <hr style="height:10px;width:75%;color:red;background-color:red">
+    <h1 align="center"><b>My schedule for Spring 2022</b><h1>
+    <table class="center" border=1 style= "font-size: 14px; margin-left: 50px:" align = "center";> <!This is the table with my schedule>
+        <tr style= "font-family: 'Arbutus Slab'";>
+            <th>Hour</th>
+            <th>Course Name</th>
+            <th>Teacher Name</th>
+        </tr>
+        <tr	style= "font-family: 'Arbutus Slab'";>
+            <th style="background-color:#AFE1AF;">1</th>
+            <th style="background-color:#AFE1AF;">Free Mod</th>
+            <th style="background-color:#AFE1AF;">Free Mod</th>
+        </tr>
+        <tr style= "font-family: 'Arbutus Slab'";>
+            <th>2</th>
+            <th>Moving and Learning</th>
+            <th>Mary Myers</th>
+        </tr>
+        <tr style= "font-family: 'Arbutus Slab'";>
+            <th>3</th>
+            <th>German l</th>
+            <th>Agnieszka Michalak</th>
+        </tr>
+        <tr style= "font-family: 'Arbutus Slab'";>
+            <th>4</th>
+            <th>MI-4</th>
+            <th>Lingyi Meng</th>
+        </tr>
+        <tr style= "font-family: 'Arbutus Slab'";>
+            <th>5</th>
+            <th>Concert Band</th>
+            <th>Mary Beth McCarthy</th>
+        </tr>
+        <tr>
+            <th>6</th>
+            <th>LE-2</th>
+            <th>Devon Madon</th>
+        </tr>
+        <tr style= "font-family: 'Arbutus Slab'";>
+            <th>7-8</th>
+            <th>Computer Science Inquiry</th>
+            <th>Phadmakar Patankar</th> 
+        </tr>
+        </table>
+        <p style = "font-size: 18px;text-align: center";><b>Here is my school address:</b></p>
+        <address style = "font-size: 16px; text-align: center";>
+            1500 Sullivan Rd., Aurora, IL 60506 <!This is the address of the school that I go to>
+        </address>
+    
+</html>
